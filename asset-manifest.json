@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "https://helloworld221.github.io/task-management-frontend/static/js/main.389a6241.chunk.js",
+    "main.js.map": "https://helloworld221.github.io/task-management-frontend/static/js/main.389a6241.chunk.js.map",
+    "runtime~main.js": "https://helloworld221.github.io/task-management-frontend/static/js/runtime~main.049d98bc.js",
+    "runtime~main.js.map": "https://helloworld221.github.io/task-management-frontend/static/js/runtime~main.049d98bc.js.map",
+    "static/js/2.23154354.chunk.js": "https://helloworld221.github.io/task-management-frontend/static/js/2.23154354.chunk.js",
+    "static/js/2.23154354.chunk.js.map": "https://helloworld221.github.io/task-management-frontend/static/js/2.23154354.chunk.js.map",
+    "index.html": "https://helloworld221.github.io/task-management-frontend/index.html",
+    "precache-manifest.e7a2ec718243555a10706ceb284bceaf.js": "https://helloworld221.github.io/task-management-frontend/precache-manifest.e7a2ec718243555a10706ceb284bceaf.js",
+    "service-worker.js": "https://helloworld221.github.io/task-management-frontend/service-worker.js"
+  }
+}
